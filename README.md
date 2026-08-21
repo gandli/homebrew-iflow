@@ -26,7 +26,9 @@ brew untap gandli/iflow
 
 | Formula | Version | Description |
 |---------|---------|-------------|
-| iflow-cli | 0.5.14 | AI-powered CLI for coding tasks and workflow automation |
+| iflow-cli | 0.5.19 | AI-powered CLI for coding tasks and workflow automation |
+
+Requires Node.js 22 (installed automatically as a dependency).
 
 ## Links
 
